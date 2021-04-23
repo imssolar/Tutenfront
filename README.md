@@ -13,7 +13,9 @@ In the project directory, you can run:
 2### `npm start`
 
 
-axios:0.21.1 react:17.0.2 react-router-dom:5.2.0
+axios:0.21.1 
+react:17.0.2 
+react-router-dom:5.2.0
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
